@@ -43,7 +43,7 @@ body {
   text-align: center;
 }
 
-.card__header-image {
+.card__header-image {/*posiciones respecto contenedores*/
   position: absolute;
   top: 0;
   left: 0;
@@ -85,7 +85,7 @@ body {
   text-align: center;
 }
 
-.card__stats {
+.card__stats {/* hado div seposicionen enlinea siendo de bloque*/
   display: inline-block;
   margin: 0 0.5em;
   width: 100px;
